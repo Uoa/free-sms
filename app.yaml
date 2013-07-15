@@ -1,6 +1,7 @@
 application: free-sms
 version: 1
-runtime: python
+runtime: python 2.7
+threadsafe: True
 api_version: 1
 
 handlers:
